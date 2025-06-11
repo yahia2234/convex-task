@@ -30,14 +30,14 @@ The goal is to **reconcile the internal and clearer trade data** at a monthly le
 
 ## 📁 Files
 
-- `Yahia_El_Nashar_Convex_Reconciliation.ipynb`: The Jupyter notebook with all steps, code, and explanations.
+- `Yahia_Rady_Convex_Reconciliation.ipynb`: The Jupyter notebook with all steps, code, and explanations.
 
 ---
 
 ## 🧑‍💻 Author
 
-**Yahia El Nashar**  
-Email: [your.email@example.com]  
+**Yahia Rady**  
+Email: yahiaradi78@gmail.com 
 Date: June 2025
 
 ---
